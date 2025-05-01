@@ -72,7 +72,7 @@ EasyPay is a feature-rich mobile payment application designed to provide users w
 
 ## Project Structure
 
-\`\`\`
+```bash
 lib/
 ├── app.dart                  # Main app configuration
 ├── main.dart                 # Entry point
@@ -97,7 +97,6 @@ lib/
     ├── themes/               # UI themes
     ├── widgets/              # Reusable widgets
     └── services/             # Global services
-\`\`\`
 
 ## Architecture
 
